@@ -1,0 +1,23 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+.status_body {
+	font-size: 2em;
+}
+
+.nav-avatar {
+	width: 40px;
+    float: left;
+    position: relative;
+    top: -5px;
+    left: -5px;
+    border-radius: 50%;
+    max-width: none;
+}
